@@ -24,3 +24,9 @@ footer {
     background-color: rgba(0, 135, 135, 0.48);
     border-radius: 40px;
 }
+
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
